@@ -32,8 +32,3 @@ The Global Superstore dataset provides comprehensive insights into the sales per
 * Shipping times affect customer satisfaction and repeat purchases, highlighting the importance of efficient logistics.
 * Timely response rates to customer complaints are tracked to ensure customer satisfaction and retention.
 
-#Complaints Analysis:
-
-* Total complaints filed and their timely response rates are key metrics for understanding and improving customer service.
-* Complaints are analyzed by product, state, and media type to identify common issues and areas for improvement.
-* Most common complaints are identified by analyzing the frequency of words used in complaint descriptions.
